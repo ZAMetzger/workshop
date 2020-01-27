@@ -2,7 +2,7 @@
 ### Zoe Metzger
 
 #### Descirbe the promise, platifs, and ways forward Blumenstock uses as the foundation for his thesis. 
-	Blumenstock talks about the great potential that data science has for human development. He demonstrates that big data, or the 
+Blumenstock talks about the great potential that data science has for human development. He demonstrates that big data, or the 
 large collections of data such as cell phone data, could help people who are in lower income communities. Census data is rarely taken and 
 expensive. Census data also tends not to reach those who are living in extreme poverty. Big data has the ability to illustrate a more 
 accurate representation of a community because of the bredth of its reach. Blumenstock focuses a lot on cell phone data and how the 
@@ -15,7 +15,7 @@ Going forward Blumenstock wants big data to be used to support the older methods
 data collection should be updated to better support lowing income countries. 
 
 #### How do you respond to these ideas regarding “good intent”, “transparency” and the difficult “balancing act” when considering the intersection of human development with data science?
-    Human development is the changing of communiteies as the world changes around them. Blumenstock discusses how big data can help support 
+Human development is the changing of communiteies as the world changes around them. Blumenstock discusses how big data can help support 
 human development but also the issues that big data could bring. I agree with Anna with her calim that good intent is not enough to fully 
 back the use of such data. Using communities of people to experiment with new data analysis is not fair. You are dealing with someones 
 livelihood. However, I do belive in the use of data to support pre-existing ideas. Nira's statement about transparency could solve a lot of 
