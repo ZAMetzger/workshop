@@ -3,7 +3,7 @@
 #### Zoe Metzger
 
 ## Informal Responses
-1. [Blumenstock](https://github.com/ZAMetzger/blumenstock)
+1. [Blumenstock](https://zametzger.github.io/workshop/blumenstock)
 
 
 ### Formal Papers
