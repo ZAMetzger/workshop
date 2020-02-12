@@ -7,5 +7,5 @@
 2. [Jahan](https://zametzger.github.io/workshop/Jahan)
 
 ### Formal Papers
-1. [Annotate Bibliography] (
+1. [Annotate Bibliography] (https://zametzger.github.io/workshop/annotated_bibliography)
     
