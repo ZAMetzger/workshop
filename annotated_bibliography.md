@@ -6,7 +6,7 @@ How is climate change impacting the people of Nicaragua?
 
 
 
-###### 1. Côte, M. (2010). Mainstreaming Climate Change in Nicaragua. United Nations Development Programme. Retrieved from https://www.undp.org/content/dam/aplaws/publication/en/publications/environment-energy/www-ee-library/climate-change/mainstreaming-climate-change-in-nicaragua/CCCC%20risk%20Mainstreaming%20Climate%20Change%20in%20Nicaragua%20ENG.pdf
+#### 1. Côte, M. (2010). Mainstreaming Climate Change in Nicaragua. United Nations Development Programme. Retrieved from https://www.undp.org/content/dam/aplaws/publication/en/publications/environment-energy/www-ee-library/climate-change/mainstreaming-climate-change-in-nicaragua/CCCC%20risk%20Mainstreaming%20Climate%20Change%20in%20Nicaragua%20ENG.pdf
 
 ​	The paper published by the United Nations Development Programme (UNDP) illustrates how the climate is changing, how it is affecting the people, and the predictions for the future in Nicaragua. UNDP begins by making the claim climate change is not only negatively impacting human development but actually reversing it. Human development, as defined by Amartya Sen, is the expansion of real freedoms. The paper discusses how climate change is affecting those in poverty the most. That means people with less economic and social freedoms will become even more unfree as a result of the impacts of climate change. Climate change in Nicaragua causes a decrease in agricultural production, insecurity in water resources, an increase coastal flooding, etc. All of these factors directly negatively impact those in poverty because their already limited access to resources is even more limited. 
 
