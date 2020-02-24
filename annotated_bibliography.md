@@ -2,7 +2,7 @@
 
 ### Problem
 
-How is climate change impacting the people of Nicaragua?
+Climate change having extreme impacts on the Nicaraguan people. Nicaragua is experiencing both high temperatures and droughts, but also flooding. Another issue in Nicaragua is around neonatal health. The negative effects of a changing enviroment could potentially have a negative impact on pregnant women and their children. How exactly is climate change impacting the future generation of Nicaragua? Nicaragua has issues with governmental corruption, health care, and economic equality. What can be done at an administrative level for pregnant women and their children experiencing issues as a result of climate change?
 
 
 
