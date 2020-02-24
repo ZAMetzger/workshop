@@ -8,5 +8,5 @@
 3. [Bader](https://zametzger.github.io/workshop/bader)
 
 ### Formal Papers
-1. [Annotate Bibliography](https://zametzger.github.io/workshop/annotated_bibliography)
+1. [Annotate Bibliography](https://zametzger.github.io/workshop/annotated_bibliographies)
     
