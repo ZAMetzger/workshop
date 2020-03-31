@@ -1,0 +1,4 @@
+### Nieves Response
+
+Nieves was using random foresting to predict human population distribution across low and middle income countries. Random foresting uses a variety of data variables to predict a separate variable, in this case population distribution. Random forest is a machine learning analysis tool. It starts with collecting a multitude of geospatial variables. They are then layered on to each other. Next, by using census data, a layer of error is added. Finally it uses a dasymmetric redistribution. Dasymmetric population allocation is the layer of census data that Nieves used. In his case he was analyzing population distribution, so he allocated the census data population densities. The most important global value were urban/suburban extents, built environment and urban/suburban proxies, climatic/environmental variables, populated place covariates, and transportation networks.
+
