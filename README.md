@@ -12,5 +12,5 @@
 
 ### Formal Papers
 1. [Annotate Bibliography](https://zametzger.github.io/workshop/annotated_bibliographies)
-2. [Literature Review](https://zametzger.github.io/workshop/Literature_review)
+2. [Literature Review](https://zametzger.github.io/workshop/Literature _review)
     
