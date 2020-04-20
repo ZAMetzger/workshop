@@ -14,5 +14,6 @@
 1. [Annotate Bibliography](https://zametzger.github.io/workshop/annotated_bibliographies)
 2. [Literature Review](https://zametzger.github.io/workshop/Literature_review)
 3. [Methodological Investigation](https://zametzger.github.io/workshop/methodology)
+4. [In-Class Essay #2](https://zametzger.github.io/workshop/inclass_essay2)
 
     
