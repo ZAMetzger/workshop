@@ -15,6 +15,6 @@
 2. [Literature Review](https://zametzger.github.io/workshop/Literature_review)
 3. [Methodological Investigation](https://zametzger.github.io/workshop/methodology)
 4. [In-Class Essay #2](https://zametzger.github.io/workshop/inclass_essay2)
-5. [Abstract](https://zametzger.github.io/workshop/Abstract) 
+5. [Abstract](https://zametzger.github.io/workshop/Abstract)  
 
     
